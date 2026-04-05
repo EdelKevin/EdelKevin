@@ -3,11 +3,9 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edelkevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/edelkevin)
+![GitHub Stats](https://ghstats.dev/api/card?username=edelkevin&theme=tokyonight)
 
-### 🏆 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edelkevin&layout=compact&theme=tokyonight)](https://github.com/edelkevin)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edelkevin&theme=tokyonight)
 
 ### 🧩 LeetCode
 
