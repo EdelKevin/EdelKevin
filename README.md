@@ -2,7 +2,7 @@
 [Kev'web](https://edelkevin.github.io/) Know more about me.
 >Git Stat
 >
->[![a](https://github-readme-stats.vercel.app/api?username=edelkevin)](https://github.com/anuraghazra/github-readme-stats)
+>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=edelkevin)]
 
 >Let's nail LeetCode!
 >
