@@ -3,7 +3,7 @@
 
 > Git Stat
 >
-> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edelkevin)
+>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=edelkevin)](https://github.com/edelkevin)
 >
 > Let's nail LeetCode!
 >
